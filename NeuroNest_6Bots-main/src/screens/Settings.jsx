@@ -35,8 +35,8 @@ export default function Settings({ navigation }) {
             style={styles.profileImage}
           />
           <View>
-            <Text style={styles.userName}>Shravani Sawant</Text>
-            <Text style={styles.userEmail}>shravani004@gmail.com</Text>
+            <Text style={styles.userName}>Nikunj Pal</Text>
+            <Text style={styles.userEmail}>nikunjpal004@gmail.com</Text>
           </View>
         </View>
 
